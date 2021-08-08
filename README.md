@@ -1,1 +1,2 @@
-# Matter.js-Boiller-Plate
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
